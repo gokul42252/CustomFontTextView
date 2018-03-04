@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomFontTextView</string>
+    <string name="steel_work_font">Steelworks Vintage Demo.ttf</string>
+</resources>
