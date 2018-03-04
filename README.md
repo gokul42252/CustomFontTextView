@@ -77,7 +77,7 @@ Add font name to Custom text view in activity_main.xml like below
 
 As you wish, you can add multiple fonts to assets and use one by one in your project.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mV-KE5bEPPs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
+See full article http://thoughtnerds.com/create-custom-textview-android-typeface-example/
 
