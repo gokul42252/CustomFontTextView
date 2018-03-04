@@ -79,5 +79,5 @@ As you wish, you can add multiple fonts to assets and use one by one in your pro
 
 
 
-See full article http://thoughtnerds.com/create-custom-textview-android-typeface-example/
+See full article http://thoughtnerds.com/create-custom-textview-android-with-typeface-example/
 
